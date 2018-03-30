@@ -1,0 +1,10 @@
+name: simple_word_prediction
+title: Simple Word Prediction
+account: angelsci
+server: shinyapps.io
+appId: 311857
+bundleId: 1294973
+url: https://angelsci.shinyapps.io/simple_word_prediction/
+when: 1522421472.3674
+asMultiple: FALSE
+asStatic: FALSE
